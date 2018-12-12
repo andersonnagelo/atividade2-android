@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "878130386736",
+    "firebase_url": "https://atividade2-517aa.firebaseio.com",
+    "project_id": "atividade2-517aa",
+    "storage_bucket": "atividade2-517aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878130386736:android:4129f3ee1d079c22",
+        "android_client_info": {
+          "package_name": "com.dd.andersonngelo.atividade2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878130386736-bvodjmpgi4jl3c76mo7it29tvib5iff2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoXKg34aTr4YY_U_kcb2ksp_gD9HmuQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
